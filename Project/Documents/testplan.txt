@@ -1,0 +1,2 @@
+For each program I will automate testing. I will take existing template from the Gradescope and I will try to recreate it for assignment_2.
+Moreover, I will use GDB to debug the files to look what's wrong with the program.

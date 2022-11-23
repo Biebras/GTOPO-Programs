@@ -1,0 +1,18 @@
+Task 1:
+By using gradescope, I will debug and fix all mistakes.
+
+Task 2:
+Firstly, I will copy every file from cw1 and paste them into assignment_2 folder. Then, i will delete everything not related with GTOPO (e.g. ascii and binary conversions, ascci read, file, pgm template handling). Lastly, I will rename all the variables with correct naming and rename programs, redo testscript.
+
+Task 3:
+I will create few functions that converts height level to symbols and new function that writes ASCII with specified symbols for different hight levels.
+
+Task 4:
+I will make assemble.c and assemble.h to store similar functions and structures.
+Then I will extract asseble code and reduce code and merge them together.
+
+Task 5:
+By using photoshop, I will easily find out tiling factor
+I will tile everything and then using photoshop I will know reduce factor.
+I will take reduce file and by using excel I will try to extract sea level, hill and mountain levels
+Then I will write script that automatically makes targeted file and compares to it.
